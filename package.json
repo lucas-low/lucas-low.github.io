@@ -9,15 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bscottnz/project-setup-webpack-notes.git"
+    "url": "git+https://github.com/lucas-low"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bscottnz/project-setup-webpack-notes/issues"
-  },
-  "homepage": "https://github.com/bscottnz/project-setup-webpack-notes#readme",
+
+  "homepage": "https://github.com/lucas-low",
   "devDependencies": {
     "css-loader": "^5.0.2",
     "eslint": "^7.19.0",
